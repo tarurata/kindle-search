@@ -33,7 +33,7 @@
             <v-layout align-center justify-center>
             <v-flex xs4 sm6 center>
             <v-text-field
-                label="kindleの本を検索"
+                label="kindleeeeの本を検索"
                 single-line
                 solo
                 append-icon="search" 
